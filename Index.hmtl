@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+     <meta charset="UTF-8">
+     <title>Minha Página</title>
+     <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+     <div class="container">
+          <h1>Os principais riscos da internet </h1>
+          <button onclick="alert('Você clicou no botão!')">Clique aqui</button>
+     </div>
+     <h3>Algumas das coisas que os cibercriminosos tentam fazer pela Internet são:</h3>
+
+     <li>Roubar informações</li>
+     <li>Corromper informações</li>
+     <li>Atacar sistemas ou equipamentos</li>
+     <li>Roubar identidade</li>
+     <li>Vender dados pessoais</li>
+     <li>Roubar dinheiro</li>
+
+     <p> Os criminosos cibernéticos usam várias maneiras para atacar uma vítima na rede. Eles podem por exemplo, usar
+          <span style="color: red;">vírus</span> para tentar romper o sistema e alterar o funcionamento dos aparelhos
+          eletrônicos. Outra modalidade é o <span style="color: red;">phishing</span>, onde o cibercriminoso se passa
+          por uma pessoa diferente através de e-mails, mensagens instantâneas ou redes sociais, para conseguir
+          informações confidenciais, como senhas, números de cartões de crédito, e outros.
+     </p>
+
+</body>
+
+</html>
